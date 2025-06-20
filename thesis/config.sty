@@ -1,5 +1,6 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesPackage{config}
+\usepackage{hyperref}
 
 \DeclareOption{romanian}{%
   \newcommand{\mainLanguage}{romanian}%
@@ -370,7 +371,7 @@
   \def\oldsection{} \let\oldsection=\section{}%
   \def\section{\stepcounter{num_appendices}\oldsection}%
 
-  \unnumberedChapter{Anexe}
+  \unnumberedChapter{\anexaLabel{}}
 }
 
 % Helper for the title pages

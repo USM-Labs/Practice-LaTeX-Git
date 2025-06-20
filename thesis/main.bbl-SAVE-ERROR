@@ -1,0 +1,144 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{learngitbranching}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Learn Git Branching — интерактивное обучение}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://learngitbranching.js.org
+      \endverb
+      \verb{url}
+      \verb https://learngitbranching.js.org
+      \endverb
+    \endentry
+    \entry{git_official_doc}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{Официальная документация Git}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://git-scm.com
+      \endverb
+      \verb{url}
+      \verb https://git-scm.com
+      \endverb
+    \endentry
+    \entry{progit_book}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{Pro Git book (на русском)}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://git-scm.com/book/ru/v2
+      \endverb
+      \verb{url}
+      \verb https://git-scm.com/book/ru/v2
+      \endverb
+    \endentry
+    \entry{latex_official_doc}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{{LaTeX2e: An unofficial reference manual}}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://latexref.xyz
+      \endverb
+      \verb{url}
+      \verb https://latexref.xyz
+      \endverb
+    \endentry
+    \entry{latex_project_site}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{{The \LaTeX{} Project Website}}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.latex-project.org
+      \endverb
+      \verb{url}
+      \verb https://www.latex-project.org
+      \endverb
+    \endentry
+    \entry{overleaf_intro}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{{Overleaf: Online LaTeX Editor}}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.overleaf.com
+      \endverb
+      \verb{url}
+      \verb https://www.overleaf.com
+      \endverb
+    \endentry
+    \entry{latex_minted}{online}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{title}{{The minted package – Highlighting source code in LaTeX}}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ctan.org/pkg/minted
+      \endverb
+      \verb{url}
+      \verb https://ctan.org/pkg/minted
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
